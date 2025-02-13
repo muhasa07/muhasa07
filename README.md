@@ -1,5 +1,5 @@
 [![Muhasa Github Stats](https://github-readme-stats.vercel.app/api?username=muhasa07&count_private=true&theme=default&show_icons=true)](https://github.com/muhasa07)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elfinsanjaya12&layout=compact)](https://github.com/muhasa07)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhasa07layout=compact)](https://github.com/muhasa07)
 <br>
 
 # Hi there, I'm Muhasa! 👋
