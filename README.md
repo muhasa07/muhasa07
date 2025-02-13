@@ -20,4 +20,4 @@ A professional with more than 1 year of experience in IT Support and skills in t
 ## 🚀 How to reach me
 - Web: [muhasa07](https://muhasa07.github.io/muhasa/)
 - Email: [muhammadafifsaputra07@gmail.com](muhammadafifsaputra07@gmail.com)
-- LinkedIn: [muhammadafifsaputra](www.linkedin.com/in/muhammad-afif-saputra-41695b1b0)
+- LinkedIn: [muhammadafifsaputra](https://www.linkedin.com/in/muhammad-afif-saputra-41695b1b0/)
