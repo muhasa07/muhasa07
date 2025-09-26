@@ -4,7 +4,7 @@
 
 # Hi there, I'm Muhasa! 👋
 
-A professional with more than 1 year of experience in IT Support and skills in the IT Program field that I have been involved in since 2020 through Bootcamp and online/offline courses. Through this Github platform, I make it a place for me to share about learning activities and several IT projects that I am working on.
+A professional with 2 years of experience in IT Support and skills in the IT Program field that I have been involved in since 2020 through Bootcamp and online/offline courses. Through this Github platform, I make it a place for me to share about learning activities and several IT projects that I am working on.
 
 ## 💻 Technologies & Tools
 - Frontend: React, Bootstrap, JavaScript, Jquery, TailwindCSS
